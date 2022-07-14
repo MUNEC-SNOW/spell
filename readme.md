@@ -1,18 +1,14 @@
-# 文件结构
-  该目录下有三个文件：
+# file structure
   - [1] spell.go
   - [2] big.txt
   - [3] readme.md
   - [4] spell.exe
   
   ## spell.go
-  该文件是此词实验的**源文件**，里面已经写好了**注释**
+  This file is **source file**
   ## big.txt
-  该文件是**贝叶斯推断**的文件库基础，内容为《夏洛克福尔摩斯小说》
-
-  ## readme.md
-  说明文件
+  This file is impliment words repo fie **Bayesian inference**，base on **Sherlock Holmes**
 
   ## spell.exe
-  该文件是有go编译器编译生成的**可执行文件**，由于go语言环境还需配置，于是我直接生成了可执行文件来供老师您**直接查看结果**。
+  if you do not have the golang exec enviorment, just run this file for fun!!
 
